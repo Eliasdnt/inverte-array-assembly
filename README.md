@@ -12,7 +12,7 @@ Segue abaixo o conteúdo do arquivo `README.md`:
 
 ## Código
 
-```bash
+```nasm
 section .data
     ; Definindo um array de 5 elementos
     array db 1, 2, 3, 4, 5   
